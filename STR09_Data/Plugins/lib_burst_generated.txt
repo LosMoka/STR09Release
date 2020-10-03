@@ -4,7 +4,6 @@
 --dump=Function
 --float-precision=Standard
 --format=Coff
---debug
 --output=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Managed\Animancer.Examples.dll
 --root-assembly=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
@@ -30,7 +29,6 @@
 --dump=Function
 --float-precision=Standard
 --format=Coff
---debug
 --output=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Plugins\lib_burst_generated
 --root-assembly=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Managed\Animancer.Examples.dll
 --root-assembly=C:\Users\Ehlnofey\Dropbox\Unity\STR09Unity\STR09\Temp\StagingArea\Data\Managed\Unity.Barracuda.dll
